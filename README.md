@@ -21,8 +21,6 @@ The Gig Management System is a comprehensive solution designed to streamline the
 
 - **Java**: The primary programming language used for the business logic.
 - **SQL**: Used for database management and storage.
-- **Discord Integration** (optional): The system can be integrated with Discord for notifications and updates about gig statuses.
-
 ## Installation
 
 1. Clone the repository:

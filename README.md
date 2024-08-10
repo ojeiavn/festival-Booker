@@ -26,7 +26,7 @@ The Gig Management System is a comprehensive solution designed to streamline the
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/GigManagementSystem.git
+   git clone https://github.com/ojeiavn/festival-Booker.git
    ```
 
 2. Set up the database:
